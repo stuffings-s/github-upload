@@ -10,7 +10,7 @@ public class sort {
 	public static void main (String[] args)
 	{
 		
-
+		// new
 		anArray = new int[50];
 	    Random rand = new Random();
 	    
