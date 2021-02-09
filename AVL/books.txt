@@ -1,0 +1,9 @@
+978-0262033848 Introduction_to_Algorithms Cormen
+978-0470531082 Digital_Design_with_RTL_Design,_VHDL,_and_Verilog Vahid
+978-0440412670 Where_the_Red_Fern_Grows Rawls
+978-0385736008 The_Alchemyst:_The_Secrets_of_the_Immortal_Nicholas_Flamel Scott
+978-0439708180 Harry_Potter_and_the_Sorcerer's_Stone Rowling
+978-0345339706 The_Fellowship_of_the_Ring Tolkien
+978-0375826696 Eragon Paolini
+978-0544336261 The_Giver Lowry
+978-0786838653 The_Lightning_Thief Riordan
