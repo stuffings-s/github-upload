@@ -10,7 +10,7 @@ public class sort {
 	public static void main (String[] args)
 	{
 		
-		// new commit
+		// new commit 
 		
 		anArray = new int[50];
 	    Random rand = new Random();
